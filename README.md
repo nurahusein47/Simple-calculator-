@@ -143,6 +143,8 @@ In the future, this calculator can be improved by:
 
 Conclusion
 This project helped me understand how functions, user input, and conditional statements work together to build a practical application. It strengthened my programming skills and improved my ability to solve problems using Python.
+
+
 The Author
 
 Nura Husein
